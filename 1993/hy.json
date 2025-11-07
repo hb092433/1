@@ -2,7 +2,7 @@
     "spider": "https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/hy",
     "wallpaper": "http://api.btstu.cn/sjbz",
     "lives": [
-{"name":"【洪宇的lPTV抓包】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/ZBY/refs/heads/main/tv1.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2}        
+{"name":"【洪宇的lPTV抓包】","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/l19270149853/ZBY/refs/heads/main/tv1.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2}        
 
 ],
 
@@ -11,10 +11,10 @@
             "key": "maiyoux",
             "name": "➖洪宇🔵直播➖",
             "type": 3,
-            "api": "https://daili.korice.eu.org/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/maiyoux_open.js",
+            "api": "https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/maiyoux_open.js",
             "jar": "https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/0606.jar"
         },
-{"key":"drpy_js_ss直播","name":"➖洪宇➖直播➖","type":3,"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/pg.jar","api":"https://daili.korice.eu.org/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/drpy2.min.js","ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/ss直播.js","timeout":30},
+{"key":"drpy_js_ss直播","name":"➖洪宇➖直播➖","type":3,"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/pg.jar","api":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/drpy2.min.js","ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/ss直播.js","timeout":30},
    {      "jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/pg2.jar","key":"大地","name":"➖洪宇➖大地➖","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
     {
       "jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/se.jar",
@@ -63,7 +63,7 @@
         "type":3,"api":"csp_Market",
         "searchable":0,
         "changeable":0,
-        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993.json"},
+        "ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993.json"},
 
         
     {
@@ -75,7 +75,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/0924/虎牙直播.json"
+      "ext": "https://cors.isteed.cc/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/0924/虎牙直播.json"
     },
 
     {
@@ -87,13 +87,13 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/0924/斗鱼直播.json"
+      "ext": "https://cors.isteed.cc/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/0924/斗鱼直播.json"
     },
        {"key":"lf_live8_min.js2",
         "jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/0924.jar",
         "name":"📲洪宇┃网络《YT2》",
         "type":3,"playerType":2,
-        "api":"https://daili.korice.eu.org/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/lf_live8_min.js","ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/YT2.txt"}
+        "api":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/lf_live8_min.js","ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/YT2.txt"}
         
     ],
     "parses": [
@@ -362,5 +362,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "logo": "https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png"
+    "logo": "https://cors.isteed.cc/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png"
 }
