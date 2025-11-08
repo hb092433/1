@@ -56,7 +56,32 @@
         "type": "rect",
         "ratio": 1.5
       }
-     },
+
+    },
+    {
+      "key": "mayun_XYQHiker_虎牙直播",
+      "name": "码云洪宇┃网络虎牙",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/hy.json"
+    },
+
+    {
+      "key": "mayun_XYQHiker_斗鱼直播",
+      "name": "码云洪宇┃网络斗鱼",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/dy.json"
+    },
+         
         {"jar":"https://ghfast.top/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
         "key":"YU_Market",
         "name":"🈵洪宇┃网络应用商店🈵",
