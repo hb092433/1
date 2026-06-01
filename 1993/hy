@@ -1,0 +1,288 @@
+{
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/hy",
+    "wallpaper": "http://api.btstu.cn/sjbz",
+    "lives": [
+{"name":"【洪宇的lPTV抓包】","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/18%2B.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2}        
+
+],
+
+    "sites": [
+        {
+            "key": "maiyoux",
+            "name": "➖洪宇🔵直播➖",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/maiyoux_open.js",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/0606.jar"
+        },
+{"key":"drpy_js_ss直播","name":"➖洪宇➖直播➖","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/pg.jar","api":"https://ghfast.top/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/hb092433/1/refs/heads/1993/1993/1993/ss直播.js","timeout":30}
+
+        
+    ],
+    "parses": [
+        {
+            "name": "洪宇DIY-解析聚合",
+            "type": 3,
+            "url": "Demo"
+        }
+
+    ],
+    "rules": [
+        {
+            "host": "www.djuu.com",
+            "rule": [
+                "mp4.djuu.com",
+                "m4a"
+            ]
+        }
+
+    ],
+    "flags": [
+        "imgo",
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "fun",
+        "letv",
+        "leshi",
+        "sohu",
+        "tudou",
+        "xigua",
+        "cntv",
+        "1905",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "renrenmi"
+    ],
+
+    "subtitle": {
+        "color": "#FFFFFF",
+        "size": "30"
+    },
+    "dr_count": 36,
+    "mode": 0,
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "洪宇DIY-http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "洪宇DIY-fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "洪宇DIY-skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "洪宇DIY-dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "洪宇DIY-http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "洪宇DIY-fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "洪宇DIY-skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "洪宇DIY-mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "洪宇DIY-dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ],
+    "logo": "https://ghfast.top/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png"
+}
